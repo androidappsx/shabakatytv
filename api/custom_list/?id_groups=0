@@ -1,0 +1,18 @@
+{
+  "api_status": 1,
+  "api_message": "success",
+  "data": [
+    {
+      "id": 3,
+      "name": "Editor\u0027s Choice",
+      "name_ar": "اختيار المحرر",
+      "view": "2"
+    },
+    {
+      "id": 1,
+      "name": "Featured Channels",
+      "name_ar": "المميزة",
+      "view": "1"
+    }
+  ]
+}
