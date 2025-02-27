@@ -21,7 +21,7 @@
       "real_channel_logo": "http://tvapi.shabakaty.com/uploads/2023-08/de7bf24e6579a5ff35fbdf462e406d69.png",
       "logo_name": "AD Sport 2",
       "source_stream": null,
-      "link": "http://stream.mytvplus.net:7013/sport/ch12/ch12_240.m3u8,
+      "link": "http://stream.mytvplus.net:7013/sport/ch12/ch12_240.m3u8",
       "link2": "http://stream.mytvplus.net:7013/sport/ch12/ch12_360.m3u8",
       "link3": "http://stream.mytvplus.net:7013/sport/ch12/ch12_1080.m3u8",
       "link4": "http://stream.mytvplus.net:7013/sport/ch12/adaptive.m3u8"
@@ -45,7 +45,7 @@
       "real_channel_logo": "http://tvapi.shabakaty.com/uploads/2023-08/ae57177d5f83ec771c5361a65b8930b8.png",
       "logo_name": "AD Sport 2",
       "source_stream": null,
-      "link": "http://stream.mytvplus.net:7012/sport/ch11/ch11_240.m3u8,
+      "link": "http://stream.mytvplus.net:7012/sport/ch11/ch11_240.m3u8",
       "link2": "http://stream.mytvplus.net:7012/sport/ch11/ch11_360.m3u8",
       "link3": "http://stream.mytvplus.net:7012/sport/ch11/ch11_1080.m3u8",
       "link4": "http://stream.mytvplus.net:7012/sport/ch11/adaptive.m3u8"
@@ -70,7 +70,7 @@
       "real_channel_logo": "http://tvapi.shabakaty.com/uploads/2024-05/68088f7dce6bb00052befc50909a95cf.png",
       "logo_name": "Bein Extra",
       "source_stream": null,
-      "link": "http://stream.mytvplus.net:7011/sport/ch10/ch10_240.m3u8,
+      "link": "http://stream.mytvplus.net:7011/sport/ch10/ch10_240.m3u8",
       "link2": "http://stream.mytvplus.net:7011/sport/ch10/ch10_360.m3u8",
       "link3": "http://stream.mytvplus.net:7011/sport/ch10/ch10_1080.m3u8",
       "link4": "http://stream.mytvplus.net:7011/sport/ch10/adaptive.m3u8"
@@ -95,7 +95,7 @@
       "real_channel_logo": "http://tvapi.shabakaty.com/uploads/2024-05/2e4414f840e4fa2a97edb812b1a8f197.png",
       "logo_name": "Bein Sport 9",
       "source_stream": null,
-      "link": "http://stream.mytvplus.net:7010/sport/ch9/ch9_240.m3u8,
+      "link": "http://stream.mytvplus.net:7010/sport/ch9/ch9_240.m3u8",
       "link2": "http://stream.mytvplus.net:7010/sport/ch9/ch9_360.m3u8",
       "link3": "http://stream.mytvplus.net:7010/sport/ch9/ch9_1080.m3u8",
       "link4": "http://stream.mytvplus.net:7010/sport/ch9/adaptive.m3u8"
