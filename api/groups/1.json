@@ -27,7 +27,7 @@
       "awesome_icon": "fa fa-newspaper"
     },
     {
-      "id": ,
+      "id": 11 ,
       "name_en": "Movies",
       "name_ar": "الافلام",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
@@ -39,7 +39,7 @@
       "awesome_icon": "fa-tape"
     },
     {
-      "id": ,
+      "id": 12 ,
       "name_en": "Series",
       "name_ar": "المسلسلات",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
@@ -51,7 +51,7 @@
       "awesome_icon": "fa-tv"
     },
     {
-      "id": ,
+      "id": 13 ,
       "name_en": "Entertainment",
       "name_ar": "القنوات الترفيهية",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
@@ -63,7 +63,7 @@
       "awesome_icon": "fa-smile-beam"
     },
     {
-      "id": ,
+      "id": 14 ,
       "name_en": "Kids",
       "name_ar": "الاطفال",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
