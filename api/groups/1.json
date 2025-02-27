@@ -4,8 +4,8 @@
   "data": [
     {
       "id": 10,
-      "name_en": "Sport",
-      "name_ar": "القنوات الرياضية",
+      "name_en": "MyTV+",
+      "name_ar": "MyTV+",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
       "sub_icon": "http://tvapi.shabakaty.com/uploads/2017-01/739e135814f83a3121b6bd82c1960749.jpg",
       "logo": "http://tvapi.shabakaty.com/uploads/2017-01/499d8ef8d795c320bbdd75fee2c4f088.jpg",
@@ -16,8 +16,8 @@
     },
     {
       "id": 15,
-      "name_en": "News",
-      "name_ar": "الاخبار",
+      "name_en": "All Networks",
+      "name_ar": "All Networks",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2022-01/469f586b3cda993076cefc39bc872a42.jpg",
       "sub_icon": "http://tvapi.shabakaty.com/uploads/2022-01/bbc5efa03ea16966b75b3b3312060d12.jpg",
       "logo": "http://tvapi.shabakaty.com/uploads/2022-01/cf93be748ada6579462517cdb176fd23.jpg",
