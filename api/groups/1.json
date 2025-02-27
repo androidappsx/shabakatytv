@@ -22,12 +22,12 @@
       "sub_icon": "http://tvapi.shabakaty.com/uploads/2022-01/bbc5efa03ea16966b75b3b3312060d12.jpg",
       "logo": "http://tvapi.shabakaty.com/uploads/2022-01/cf93be748ada6579462517cdb176fd23.jpg",
       "mobile_logo": "http://tvapi.shabakaty.com/uploads/2022-01/c3a1226a95d59f3657c7de499e229ffb.jpg",
-      "link": "http://tv.mynet.iq?ch\u003dchannel1#",
+      "link": "",
       "sorting_index": 2,
       "awesome_icon": "fa fa-newspaper"
     },
     {
-      "id": 11,
+      "id": ,
       "name_en": "Movies",
       "name_ar": "الافلام",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
@@ -39,7 +39,7 @@
       "awesome_icon": "fa-tape"
     },
     {
-      "id": 12,
+      "id": ,
       "name_en": "Series",
       "name_ar": "المسلسلات",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
@@ -51,7 +51,7 @@
       "awesome_icon": "fa-tv"
     },
     {
-      "id": 13,
+      "id": ,
       "name_en": "Entertainment",
       "name_ar": "القنوات الترفيهية",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
@@ -63,7 +63,7 @@
       "awesome_icon": "fa-smile-beam"
     },
     {
-      "id": 14,
+      "id": ,
       "name_en": "Kids",
       "name_ar": "الاطفال",
       "main_icon": "http://tvapi.shabakaty.com/uploads/2017-01/00a727beb8375e534620e2572e51cfaf.jpg",
