@@ -8,11 +8,11 @@
       "sliders_name": "Home Slider",
       "id_channels": 42,
       "channels_name_en": "Telegram Channel",
-      "channels_name_ar": "القناة السابعة",
+      "channels_name_ar": "قناة التلكرام",
       "channels_logo": "https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/slide.jpg",
       "channels_mobile_logo": "http://tvapi.shabakaty.com/uploads/2022-01/4efd84ed008bc64c561e412449a2142c.jpg",
       "channels_real_channel_logo": "http://tvapi.shabakaty.com/uploads/2022-01/beb5e6f058d6363747a5e27b906b7bae.png",
-      "channels_logo_name": "@Android_AppsX",
+      "channels_logo_name": "",
       "channels_source_stream": null,
       "channels_link": "http://stream.shabakaty.com:6001/enter/ch7/ch7_360.m3u8",
       "channels_link2": "http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8",
@@ -30,7 +30,7 @@
       "groups_link": "http://tv.mynet.iq?ch\u003dchannel1#",
       "groups_sorting_index": 5,
       "groups_awesome_icon": "fa-smile-beam",
-      "item_name": "Idx"
+      "item_name": "@Android_AppsX"
     }
     
   ]
