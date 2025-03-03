@@ -1,0 +1,40 @@
+{
+  "api_status": 1,
+  "api_message": "success",
+  "data": [
+    {
+      "id": 1,
+      "id_groups": 18,
+      "groups_name_en": "Sport",
+      "groups_name_ar": "القنوات الرياضية",
+      "groups_main_icon": "https://api.veo.buzz/uploads/2023-08/e12eb04b301600808f40d78a5a7adfb6.jpg",
+      "groups_sub_icon": "https://api.veo.buzz/uploads/2023-08/fa8ef2c6f4bbea4fd3c6d6d5e2f2a957.jpg",
+      "groups_logo": "https://api.veo.buzz/uploads/2023-08/342ce322f5227b1118c3bd81cf713e7b.jpg",
+      "groups_mobile_logo": "https://api.veo.buzz/uploads/2023-08/e3f2c15ba85a9b94d155b22cf23747f0.jpg",
+      "groups_link": "http://tv.mynet.iq?ch\u003dchannel1###",
+      "groups_sorting_index": 2,
+      "groups_awesome_icon": "fa-futbol",
+      "id_channels": 4,
+      "channels_name_en": "Channel 1",
+      "channels_name_ar": "القناة الاولى",
+      "channels_logo": "https://api.veo.buzz/uploads/2023-08/438a7c8581ae2806a9780823c73435e2.png",
+      "channels_mobile_logo": "https://api.veo.buzz/uploads/2023-08/a39580cd073bf49c8f57579e320adbc7.png",
+      "channels_real_channel_logo": "https://api.veo.buzz/uploads/2023-01/2a862274b9f122f06db07b75225f57f9.png",
+      "channels_logo_name": "الرياضية الاولى",
+      "channels_source_stream": null,
+      "channels_link": "https://stream.veo.buzz:6050/sport/ch1/ch1_360.m3u8",
+      "channels_link2": "https://stream.veo.buzz:6050/sport/ch1/ch1_720.m3u8",
+      "channels_link3": "https://stream.veo.buzz:6050/sport/ch1/adaptive.m3u8",
+      "channels_link4": "https://stream.veo.buzz:6050/sport/ch1/ch1_1080.m3u8",
+      "program_name": "كلوب بروج -أستون فيلا -دوري أبطال أوروبا ",
+      "program_time": "2025-03-04 20:45:00",
+      "highlight": 1,
+      "id_program_types": 1,
+      "program_types_name_en": "Documentry",
+      "program_types_name_ar": "وثائقية",
+      "season": 0,
+      "episode": 0,
+      "year": 2025
+    }
+  ]
+}
