@@ -1,0 +1,11 @@
+{
+  "api_status": 1,
+  "api_message": "success",
+  "data": [
+    {
+      "id": 2,
+      "id_groups": 0,
+      "name": "Home Slider"
+    }
+  ]
+}
